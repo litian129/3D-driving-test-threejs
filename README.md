@@ -14,3 +14,4 @@ Wanna use it? okay then just follow these simple steps:
 • The ./static folder is where you put the images and 3D models.
 
 • The the ./src/ is where you put your Javascript and CSS folders and files.
+![1684575152(1)](https://github.com/litian129/ThreeBoilerplate-main/assets/32488489/e9980ffd-4aff-42ce-a17d-ad1bc811c031)
